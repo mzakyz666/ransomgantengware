@@ -1,0 +1,2 @@
+# ransomgantengware
+Simple ransomware
