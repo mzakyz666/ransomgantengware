@@ -1,5 +1,6 @@
 # ransomgantengware
 Simple ransomware
+Disclaimer: "For educational purpose only!"
 
 <img src="https://raw.githubusercontent.com/zakybstrd21215/ransomgantengware/master/screenshot.jpg">
 
