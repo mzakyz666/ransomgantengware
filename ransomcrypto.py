@@ -50,6 +50,7 @@ def generate_data(length):
     return ''.join(random.SystemRandom().choice(chars) for _ in range(length))
 
 ## problem with script is memory error on large files :(
+## next time I will fix this..
 
 def shred(file_name,  passes):
     try:
